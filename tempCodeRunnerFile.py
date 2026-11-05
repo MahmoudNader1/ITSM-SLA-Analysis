@@ -1,0 +1,1 @@
+df["Customer_Satisfaction"]=df["Customer_Satisfaction"].fillna()
